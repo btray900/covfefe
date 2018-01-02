@@ -52,7 +52,7 @@ The passphrase is cracked.
 
 ## Low-privilege Shell
 
-Using SSH and the private keyt with the compromised passphrase, we can SSH to the VM.
+Using SSH and the private key with the compromised passphrase, we can SSH to the VM.
 
 ![Alt text](./lowshell.png?raw=true)
 
